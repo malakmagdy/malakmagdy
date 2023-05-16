@@ -1,7 +1,5 @@
 ### Hi there, I'm Malak Magdy 👋
-I'm a GDSC Lead at CIC | Organiser at GDG New Cairo | and Student Majoring in Mobile and Cloud Computing.
-
-Currently I'm working on growing my skills in the Feild of Mobile App development and Cloud Computing 
+I'm a Senior Computer Science Student at CIC Majoring in Mobile and Cloud Computing. I have a great passion for Software Engineering and teaching. Cuurently I'm grawing my skills in app development and doing some problem solving.  
 
 <!--
 **malakmagdy/malakmagdy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
