@@ -1,5 +1,5 @@
 ### Hi there, I'm Malak Magdy 👋
-I'm a Senior Computer Science Student at CIC Majoring in Mobile and Cloud Computing. I have a great passion for Software Engineering and teaching. Cuurently I'm grawing my skills in app development and doing some problem solving.  
+I'm a Computer Science Student at CIC Majoring in Mobile and Cloud Computing. I have a great passion for Software Engineering and teaching. Curently I'm growing my skills in app development and doing some problem solving.  
 
 <!--
 **malakmagdy/malakmagdy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,16 +22,16 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
 
-<!--
+
 #### IDE :
 <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-
- 
 <p align="center">
+     <a href="https://www.linkedin.com/in/malakmagdy/" alt="Linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></p> 
+<!--
     <a href="https://twitter.com/MalakMagdy194?t=MSzDcnPzseZ4YAT6Gqfkrw&s=09" alt="Twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/malakmagdy/" alt="Linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
     <a href="https://github.com/malakmagdy" alt="GitHub"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-</p> 
+
 </p>
 -->
