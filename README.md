@@ -1,5 +1,5 @@
 ### Hi there, I'm Malak Magdy 👋
-I'm a Computer Science Student at CIC Majoring in Mobile and Cloud Computing. I have a great passion for Software Engineering and teaching. Curently I'm growing my skills in app development and doing some problem solving.  
+I'm a Computer Science Graduate who have a great passion for Software Engineering and teaching. Curently I'm growing my skills in app development and doing some problem solving.  
 
 <!--
 **malakmagdy/malakmagdy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
