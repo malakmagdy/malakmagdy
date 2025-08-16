@@ -1,7 +1,8 @@
+<!--
 ### Hi there, I'm Malak Magdy 👋
 I'm a Computer Science Graduate who have a great passion for Software Engineering and teaching. Curently I'm growing my skills in app development and doing some problem solving.  
 
-<!--
+
 **malakmagdy/malakmagdy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,7 +15,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 <details>
  Programming language i am using :
@@ -23,6 +24,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
 <!--<img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
 -->
+<!--
 #### IDE :
 <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
